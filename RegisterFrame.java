@@ -12,7 +12,7 @@ import java.io.IOException;
 public class RegisterFrame extends JFrame {
 
     public RegisterFrame() {
-        setSize(250, 200);
+        setSize(200, 200);
         setTitle("Register");
         setLocationRelativeTo(null);
 
